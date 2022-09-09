@@ -557,6 +557,9 @@ background: #000000;
     height: 122px;
 
   }
+  .toggle {
+    display: none;
+  }
 
   .search {
     display: block;
